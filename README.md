@@ -84,7 +84,7 @@ No backend. No database. No smart contract. Pure client-side.
 
 ```bash
 # Clone and install
-git clone https://github.com/yourname/sonicsign
+git clone https://github.com/Olympusxvn/sonicsign
 cd sonicsign
 pnpm install
 
