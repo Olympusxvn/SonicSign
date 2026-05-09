@@ -200,6 +200,12 @@ Same ElevenLabs + Solana core. Incrementally more useful at each step.
 
 ---
 
+## Source Code
+
+https://trynoah.ai/shared/69fe001a0c26654df1e2da9d
+
+---
+
 ## License
 
 MIT
