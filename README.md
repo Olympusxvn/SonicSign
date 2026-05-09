@@ -174,6 +174,22 @@ ElevenLabs is used as the **core security layer**, not a cosmetic feature. The A
 
 ---
 
+### Concept
+
+Sau hackathon, SonicSign có thể mở rộng thành một **voice-enabled DeFi assistant** — không chỉ xác nhận giao dịch mà còn chủ động nói chuyện với user về portfolio, market, và on-chain activity. ElevenLabs làm giọng nói, một LLM (GPT-4o hoặc Claude) làm brain, Solana làm data source.
+
+**Tagline mở rộng**: *"SonicSign Agent — your DeFi portfolio speaks to you."*
+
+### Why This Works as a Product
+
+- **MVP** (hackathon): Voice confirms transactions → security tool
+- **V2** (post-hackathon): Voice briefs portfolio + answers questions → DeFi assistant
+- **V3**: Agent monitors wallets 24/7, sends voice alerts for large movements, price triggers, liquidation risks
+
+Same ElevenLabs + Solana core. Incrementally more useful at each step.
+
+---
+
 ## Built With
 
 - [Solana](https://solana.com) — blockchain
