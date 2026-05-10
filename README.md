@@ -196,7 +196,7 @@ Same ElevenLabs + Solana core. Incrementally more useful at each step.
 - [Phantom](https://phantom.com) — wallet
 - [NoahAI](https://trynoah.ai) — vibe coding platform
 - [Dev3pack](https://dev3pack.xyz) — hackathon host
-
+- [Vercel](https://vercel.com) - deploy cloud
 ---
 
 ## Source Code
