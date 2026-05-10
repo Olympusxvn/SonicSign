@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <rect width="1200" height="300" fill="#080b12"/>
+
+  <rect x="0" y="0" width="4" height="300" fill="#00f0ff"/>
+
+  <rect x="60"  y="160" width="22" height="70"  rx="5" fill="#00f0ff"/>
+  <rect x="90"  y="130" width="22" height="100" rx="5" fill="#00f0ff"/>
+  <rect x="120" y="100" width="22" height="130" rx="5" fill="#00f0ff"/>
+  <rect x="150" y="75"  width="22" height="155" rx="5" fill="#ff00aa"/>
+  <rect x="180" y="100" width="22" height="130" rx="5" fill="#00f0ff"/>
+  <rect x="210" y="130" width="22" height="100" rx="5" fill="#00f0ff"/>
+  <rect x="240" y="160" width="22" height="70"  rx="5" fill="#00f0ff"/>
+
+  <text x="310" y="145" font-family="monospace" font-size="88" font-weight="700" fill="#e8f4f8" letter-spacing="3">SonicSign</text>
+  <text x="314" y="195" font-family="monospace" font-size="26" fill="#00f0ff" letter-spacing="1">Your voice confirms every transaction.</text>
+
+  <line x1="310" y1="220" x2="980" y2="220" stroke="#0f1623" stroke-width="1"/>
+
+  <text x="314" y="255" font-family="monospace" font-size="19" fill="#4a6b7a" letter-spacing="1">Built on Solana  ·  Powered by ElevenLabs  ·  Phantom Wallet</text>
+
+  <rect x="1050" y="60"  width="3" height="55" rx="2" fill="#00f0ff"/>
+  <rect x="1062" y="45"  width="3" height="70" rx="2" fill="#00f0ff"/>
+  <rect x="1074" y="30"  width="3" height="85" rx="2" fill="#ff00aa"/>
+  <rect x="1086" y="45"  width="3" height="70" rx="2" fill="#00f0ff"/>
+  <rect x="1098" y="60"  width="3" height="55" rx="2" fill="#00f0ff"/>
+  <rect x="1110" y="70"  width="3" height="45" rx="2" fill="#00f0ff"/>
+  <rect x="1122" y="80"  width="3" height="35" rx="2" fill="#00f0ff"/>
+
+  <rect x="1050" y="145" width="3" height="55" rx="2" fill="#00f0ff" opacity="0.4"/>
+  <rect x="1062" y="135" width="3" height="65" rx="2" fill="#00f0ff" opacity="0.4"/>
+  <rect x="1074" y="120" width="3" height="80" rx="2" fill="#ff00aa" opacity="0.4"/>
+  <rect x="1086" y="130" width="3" height="70" rx="2" fill="#00f0ff" opacity="0.4"/>
+  <rect x="1098" y="140" width="3" height="60" rx="2" fill="#00f0ff" opacity="0.4"/>
+  <rect x="1110" y="150" width="3" height="50" rx="2" fill="#00f0ff" opacity="0.4"/>
+  <rect x="1122" y="158" width="3" height="42" rx="2" fill="#00f0ff" opacity="0.4"/>
+
+  <text x="1086" y="240" text-anchor="middle" font-family="monospace" font-size="14" fill="#1a2a35" letter-spacing="1">Dev3pack Hackathon 2026</text>
+
+  <rect x="1196" y="0" width="4" height="300" fill="#ff00aa"/>
+</svg>

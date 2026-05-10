@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" rx="80" fill="#080b12"/>
+  <rect x="132" y="310" width="36" height="80"  rx="8" fill="#00f0ff"/>
+  <rect x="182" y="255" width="36" height="135" rx="8" fill="#00f0ff"/>
+  <rect x="232" y="195" width="36" height="195" rx="8" fill="#00f0ff"/>
+  <rect x="282" y="155" width="36" height="235" rx="8" fill="#ff00aa"/>
+  <rect x="332" y="195" width="36" height="195" rx="8" fill="#00f0ff"/>
+  <rect x="382" y="255" width="36" height="135" rx="8" fill="#00f0ff"/>
+  <rect x="432" y="310" width="36" height="80"  rx="8" fill="#00f0ff"/>
+  <circle cx="300" cy="100" r="22" fill="none" stroke="#00f0ff" stroke-width="3"/>
+  <rect x="291" y="78" width="18" height="28" rx="6" fill="#00f0ff"/>
+  <path d="M278 108 Q278 130 300 130 Q322 130 322 108" fill="none" stroke="#00f0ff" stroke-width="3" stroke-linecap="round"/>
+  <line x1="300" y1="130" x2="300" y2="140" stroke="#00f0ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="300" y="488" text-anchor="middle" font-family="monospace" font-size="46" font-weight="700" fill="#e8f4f8" letter-spacing="2">SonicSign</text>
+  <text x="300" y="528" text-anchor="middle" font-family="monospace" font-size="17" fill="#4a6b7a" letter-spacing="1">voice-confirmed transactions</text>
+</svg>
